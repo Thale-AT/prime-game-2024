@@ -1,2 +1,2 @@
-# prime-game-2023
-Mein Bot (MoenchVonLuetzerath) für den PrimeGame-Wettbewerb 2023
+# prime-game-2024
+Bot für den PrimeGame-Wettbewerb 2024

@@ -13,21 +13,6 @@ public class Test2 extends Primspieler {
 
     public int getValue(int number) {
         int value = number;
-        boolean isPrime = true;
-        for(int divider = 2; (double)divider <= Math.sqrt(number); ++divider) {
-            if (number % divider == 0) {
-                isPrime = false;
-                break;
-            }
-        }
-        if (isPrime) {
-            if (number % 2 != 0) {
-                value = value - ((number + 1) / 2);
-            } else {
-                value = value - (number / 2);
-            }
-        }
-
         return value;
     }
 

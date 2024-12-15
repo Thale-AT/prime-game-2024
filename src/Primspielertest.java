@@ -298,7 +298,7 @@ public class Primspielertest implements Logging {
             System.out.flush();*/
             String home;
             try {
-                home = "MoenchVonLuetzerath";// br.readLine();
+                home = "Test2";// br.readLine();
                 /*System.out.println("Player B (Guest): ");
                 System.out.flush();*/
                 String guest = "Test2";// br.readLine();
